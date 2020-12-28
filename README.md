@@ -37,7 +37,7 @@ git clone https://github.com/Inpulsgor/Webpack.git
 Переименовать папку сборки именем вашего проекта.
 
 ```shell
-mv webpack-starter-kit имя_проекта
+mv Webpack имя_проекта
 ```
 
 Затем перейти в папку проекта.
